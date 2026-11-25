@@ -1,0 +1,8 @@
+{
+  "name": "tokenchik",
+  "version": "0.1.0",
+  "description": "Токенчик — робот в очках: следит за контекстом, лимитами и моделью и подсказывает, как тратить меньше токенов",
+  "author": { "name": "housegorobec-gif" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

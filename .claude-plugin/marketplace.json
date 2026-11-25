@@ -1,0 +1,11 @@
+{
+  "name": "tokenchik",
+  "owner": { "name": "housegorobec-gif" },
+  "plugins": [
+    {
+      "name": "tokenchik",
+      "source": "./",
+      "description": "Токенчик — робот в очках, помощник по экономии токенов в Claude Code и Claude Desktop"
+    }
+  ]
+}
